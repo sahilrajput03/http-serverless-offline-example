@@ -21,3 +21,10 @@ npm i serverless-dotenv --save-dev
 ```
 
 `serverless-dotnev` helps us to setp env values.
+
+
+FYI: Express like serverless?
+
+Code in this repo only in `Serverless-example` folder.
+
+Check this out: https://blog.logrocket.com/going-serverless-node-js-apps/
