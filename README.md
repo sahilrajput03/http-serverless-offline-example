@@ -11,3 +11,13 @@ FYI: There is a websocket version of serverless-offline as well: https://github.
 FYI: We can use nodemon while developing the applications as they have this [`nodemon` example](https://github.com/dherault/serverless-offline/blob/master/examples/tools/nodemon/package.json#L5) for `serverless-offline` in examples directory.
 
 FYI: With `serverless-offline` we can emulate api gateway locally as well, yo!!
+
+FYI: `serverless-dotenv` ?
+
+Src: https://blog.logrocket.com/going-serverless-node-js-apps/
+
+```bash
+npm i serverless-dotenv --save-dev
+```
+
+`serverless-dotnev` helps us to setp env values.
